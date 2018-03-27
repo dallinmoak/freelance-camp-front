@@ -16,21 +16,21 @@ var DocumentsComponent = /** @class */ (function () {
                 description: 'this describes the title.',
                 file_url: 'http://google.com',
                 updated_at: '11/11/16',
-                image_url: 'http://google.com'
+                image_url: 'https://i.imgur.com/ymFrpxC.jpg'
             },
             {
                 title: 'second Document Title',
                 description: 'this describes the title.',
                 file_url: 'http://google.com',
                 updated_at: '11/11/16',
-                image_url: 'http://google.com'
+                image_url: 'https://i.imgur.com/ymFrpxC.jpg'
             },
             {
                 title: 'third Document Title',
                 description: 'this describes the title.',
                 file_url: 'http://google.com',
                 updated_at: '11/11/16',
-                image_url: 'http://google.com'
+                image_url: 'https://i.imgur.com/ymFrpxC.jpg'
             }
         ];
     }
